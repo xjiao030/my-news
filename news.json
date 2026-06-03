@@ -1,10 +1,31 @@
 [
   {
     "source": "BBC News (全球政治)",
-    "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-    "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-    "time": "Wed, 03 Jun 2026 14:02:25 GMT",
-    "desc": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island."
+    "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+    "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+    "time": "Wed, 03 Jun 2026 21:19:19 GMT",
+    "desc": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday."
+  },
+  {
+    "source": "BBC News (全球政治)",
+    "title": "US House votes to halt Iran war, in rebuke to Trump",
+    "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+    "time": "Wed, 03 Jun 2026 23:01:07 GMT",
+    "desc": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts."
+  },
+  {
+    "source": "BBC News (全球政治)",
+    "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+    "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+    "time": "Wed, 03 Jun 2026 20:28:01 GMT",
+    "desc": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents."
+  },
+  {
+    "source": "BBC News (全球政治)",
+    "title": "Grab what you can while you can: The new reality in the South China Sea",
+    "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+    "time": "Wed, 03 Jun 2026 22:00:21 GMT",
+    "desc": "After years of watching China create land to back its expansive claims, others are doing the same."
   },
   {
     "source": "BBC News (全球政治)",
@@ -12,27 +33,6 @@
     "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
     "time": "Wed, 03 Jun 2026 11:34:07 GMT",
     "desc": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-    "link": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-    "time": "Wed, 03 Jun 2026 05:13:02 GMT",
-    "desc": "The oil giant says the documents ignore the critical context of the complex operating environment at the time."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Foreign nationals among at least 21 killed in Delhi fire",
-    "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-    "time": "Wed, 03 Jun 2026 11:54:25 GMT",
-    "desc": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
-    "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-    "time": "Wed, 03 Jun 2026 15:18:28 GMT",
-    "desc": "The bus was hit in the eastern Donetsk region, an official says."
   },
   {
     "source": "新华社 (中国)",
@@ -113,65 +113,65 @@
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/alphabet-raise-84-75-billion-153603843.html",
-    "time": "2026-06-03T15:36:03Z",
+    "title": "He dropped out of high school to work construction for $8/hour — now 22, he's making $200,000 a year",
+    "link": "https://finance.yahoo.com/economy/articles/dropped-high-school-construction-8-152000895.html",
+    "time": "2026-06-02T15:20:00Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Stocks fall, oil prices nears $100 as Iran war escalates",
-    "link": "https://finance.yahoo.com/news/oil-jumps-mideast-missiles-while-021606836.html",
-    "time": "2026-06-03T15:31:47Z",
+    "title": "How Is Prologis’ Stock Performance Compared to Other Real Estate Stocks?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-stock-performance-compared-other-152429555.html",
+    "time": "2026-06-02T15:24:29Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Palantir: How To Make Money When The Stock Is Choppy",
-    "link": "https://www.investors.com/research/options/palantir-pltr-stock-calendar-spread-options/?src=A00220&yptr=yahoo",
-    "time": "2026-06-03T15:29:50Z",
+    "title": "Stocks Push Higher on US Labor Market Strength and AI Spending",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-push-higher-us-labor-152543892.html",
+    "time": "2026-06-02T15:25:43Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Stock Market Today: Dow Slumps Amid U.S.-Iran Strikes; IBM Dives (Live Coverage)",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-palo-alto-panw-stock/?src=A00220&yptr=yahoo",
-    "time": "2026-06-03T15:27:51Z",
+    "title": "Wise Shares Sink as Europe Probes €500 Million in Suspicious Transfers",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wise-shares-sink-europe-probes-152641787.html",
+    "time": "2026-06-02T15:26:41Z",
     "desc": ""
   },
   {
     "source": "CNBC (商业)",
-    "title": "SpaceX targets fixed $135 IPO roadshow price at $1.75 trillion valuation, source says",
+    "title": "SpaceX targets $135 IPO price at valuation of $1.77 trillion",
     "link": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
-    "time": "Wed, 03 Jun 2026 16:00:37 GMT",
+    "time": "Wed, 03 Jun 2026 21:13:41 GMT",
     "desc": "The valuation would make Elon Musk's company the seventh-biggest in the U.S., above Tesla, which has a market cap of about $1.6 trillion."
   },
   {
     "source": "CNBC (商业)",
     "title": "Sellers are pulling homes off the market at the fastest pace since 2020",
     "link": "https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html",
-    "time": "Wed, 03 Jun 2026 14:42:41 GMT",
+    "time": "Wed, 03 Jun 2026 16:31:57 GMT",
     "desc": "Frustrated sellers are pulling their homes off the market at an increasingly high pace, as demand weakens and bidding wars wane."
   },
   {
     "source": "CNBC (商业)",
-    "title": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports",
-    "link": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html",
-    "time": "Wed, 03 Jun 2026 14:28:44 GMT",
-    "desc": "Unlike prior months, where job growth was concentrated in healthcare and a few other sectors, gains were more broad-based."
+    "title": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year",
+    "link": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+    "time": "Wed, 03 Jun 2026 23:00:58 GMT",
+    "desc": "Broadcom reported fiscal second-quarter results on Wednesday and missed estimates for revenue."
   },
   {
     "source": "CNBC (商业)",
     "title": "GOP Sen. Tillis slams Trump intelligence pick Pulte: 'Don't think he has a prayer'",
     "link": "https://www.cnbc.com/2026/06/03/tillis-trump-pulte-intelligence-dni-senate.html",
-    "time": "Wed, 03 Jun 2026 16:02:50 GMT",
+    "time": "Wed, 03 Jun 2026 18:25:37 GMT",
     "desc": "Pulte is widely viewed as a Trump loyalist who has targeted the president's political foes during his tenure leading the housing regulatory agency."
   },
   {
     "source": "CNBC (商业)",
-    "title": "Uber slashes people division by nearly a quarter. CEO says 'changes are necessary'",
-    "link": "https://www.cnbc.com/2026/06/03/uber-layoffs-people-division-ai.html",
-    "time": "Wed, 03 Jun 2026 15:57:55 GMT",
-    "desc": "Uber said the cuts were not driven by AI, which has allowed many tech businesses to cut costs and automate workloads"
+    "title": "Historic stock rally faces key test",
+    "link": "https://www.cnbc.com/2026/06/03/historic-stock-rally-faces-key-test.html",
+    "time": "Wed, 03 Jun 2026 18:32:24 GMT",
+    "desc": "Two key tech companies reporting earnings after the bell could determine the next move higher or lower."
   }
 ]
