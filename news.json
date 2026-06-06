@@ -1,24 +1,17 @@
 [
   {
     "source": "BBC News (全球政治)",
+    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+    "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+    "time": "Sat, 06 Jun 2026 11:37:19 GMT",
+    "desc": "The city's governor urges residents to remain indoors for the first time since the beginning of the war."
+  },
+  {
+    "source": "BBC News (全球政治)",
     "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
     "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
     "time": "Sat, 06 Jun 2026 06:16:28 GMT",
     "desc": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-    "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-    "time": "Fri, 05 Jun 2026 18:16:15 GMT",
-    "desc": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-    "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-    "time": "Sat, 06 Jun 2026 02:28:56 GMT",
-    "desc": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce."
   },
   {
     "source": "BBC News (全球政治)",
@@ -29,10 +22,17 @@
   },
   {
     "source": "BBC News (全球政治)",
-    "title": "Iran's football team granted visas to enter US for World Cup, officials say",
+    "title": "Lebanon says three soldiers killed in Israeli attack on car",
+    "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+    "time": "Sat, 06 Jun 2026 10:57:28 GMT",
+    "desc": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah."
+  },
+  {
+    "source": "BBC News (全球政治)",
+    "title": "Iran says staff blocked from entering US after players given World Cup visas",
     "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-    "time": "Sat, 06 Jun 2026 03:14:56 GMT",
-    "desc": "The approval comes just 10 days before the Iranian squad's opening match against New Zealand in Los Angeles."
+    "time": "Sat, 06 Jun 2026 11:56:25 GMT",
+    "desc": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country."
   },
   {
     "source": "新华社 (中国)",
@@ -106,52 +106,52 @@
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Gas Prices Have Dropped Every Day for 2 Weeks—See Where Drivers Are Paying the Most and Least",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/gas-prices-dropped-every-day-033913957.html",
-    "time": "2026-06-05T03:39:13Z",
+    "title": "3 Unstoppable Energy Stocks on Washington's Short List as Trump Rewrites U.S. Oil and Gas Strategy",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/3-unstoppable-energy-stocks-washingtons-124000788.html",
+    "time": "2026-06-06T12:40:00Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Brookfield Renewable Partners (BEP) Price Target Raised Amid “Numerous Strong Tailwinds”",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/brookfield-renewable-partners-bep-price-033218898.html",
-    "time": "2026-06-05T03:32:18Z",
+    "title": "‘Please don’t do this’: Dave Ramsey says ditch this household expense keeping Americans from acquiring wealth",
+    "link": "https://finance.yahoo.com/markets/articles/please-don-t-dave-ramsey-111500915.html",
+    "time": "2026-06-05T11:15:00Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Fluence Energy (FLNC) to Collaborate with Siemens and Nvidia to Develop AI Data Centers",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/fluence-energy-flnc-collaborate-siemens-033157245.html",
-    "time": "2026-06-05T03:31:57Z",
+    "title": "Broadcom, Amazon Spearhead Mind-Boggling Bets By Top Funds. See The Full Deluge Here.",
+    "link": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-ai-demand-broadcom-amazon-asml-google-micron/?src=A00220&yptr=yahoo",
+    "time": "2026-06-05T11:00:49Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Susquehanna Raises Nextpower (NXT) Price Target Following Prevalon Deal",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/susquehanna-raises-nextpower-nxt-price-033110477.html",
-    "time": "2026-06-05T03:31:10Z",
+    "title": "Stock Funds Surge In May On AI Optimism — What's Next?",
+    "link": "https://www.investors.com/etfs-and-funds/personal-finance/stock-funds-surge-in-may-on-ai-optimism-whats-next/?src=A00220&yptr=yahoo",
+    "time": "2026-06-05T11:00:11Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "TD Cowen Boosts Shoals Technologies (SHLS) Price Target Following Meeting with Management",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/td-cowen-boosts-shoals-technologies-033012765.html",
-    "time": "2026-06-05T03:30:12Z",
+    "title": "‘Very difficult’ for casual investors to gain with IPOs – why you should think twice about SpaceX, Anthropic and OpenAI",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/very-difficult-casual-investors-gain-110000171.html",
+    "time": "2026-06-05T11:00:00Z",
     "desc": ""
   },
   {
     "source": "CNBC (商业)",
-    "title": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push",
-    "link": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
-    "time": "Fri, 05 Jun 2026 20:22:44 GMT",
-    "desc": "Meta shares dropped after the Financial Times reported the company could potentially raise tens of billions of dollars in a stock offering to help its AI push."
+    "title": "Inside the Obama-era Iran nuclear deal that Trump withdrew from",
+    "link": "https://www.cnbc.com/2026/06/06/trump-iran-jcpoa-nuclear-deal-obama.html",
+    "time": "Sat, 06 Jun 2026 12:00:01 GMT",
+    "desc": "The U.S. and Iran have yet to reach a peace deal or address Iran's nuclear ambitions, despite signals from Trump that talks are progressing."
   },
   {
     "source": "CNBC (商业)",
-    "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "time": "Fri, 05 Jun 2026 21:01:53 GMT",
-    "desc": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months."
+    "title": "Abel goes his own way with new Berkshire investments, including billions for AI",
+    "link": "https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html",
+    "time": "Sat, 06 Jun 2026 12:31:02 GMT",
+    "desc": "Warren Buffett tells CNBC's Becky Quick new Berkshire Hathaway CEO Greg Abel has \"launched\" with his first major deal."
   },
   {
     "source": "CNBC (商业)",
@@ -162,16 +162,16 @@
   },
   {
     "source": "CNBC (商业)",
-    "title": "Bitcoin cracks $60,000, sinking to lowest level since October 2024",
-    "link": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
-    "time": "Fri, 05 Jun 2026 20:59:16 GMT",
-    "desc": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets."
+    "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "time": "Fri, 05 Jun 2026 21:01:53 GMT",
+    "desc": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months."
   },
   {
     "source": "CNBC (商业)",
-    "title": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
-    "link": "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html",
-    "time": "Fri, 05 Jun 2026 21:36:23 GMT",
-    "desc": "The move highlights the growing importance of the technology sector to the stock market."
+    "title": "AstraZeneca CEO says AI is reshaping drug development — and helping boost the odds of success",
+    "link": "https://www.cnbc.com/2026/06/05/astrazeneca-ceo-says-ai-is-reshaping-drug-development-and-helping-boost-the-odds-of-success.html",
+    "time": "Fri, 05 Jun 2026 22:26:16 GMT",
+    "desc": "AstraZeneca CEO Pascal Soriot said AI is helping the company develop medicines faster and make smarter decisions throughout the research process."
   }
 ]
