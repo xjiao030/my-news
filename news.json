@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC News (全球政治)",
+    "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+    "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+    "time": "Sat, 06 Jun 2026 06:16:28 GMT",
+    "desc": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain."
+  },
+  {
+    "source": "BBC News (全球政治)",
     "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
     "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
     "time": "Fri, 05 Jun 2026 18:16:15 GMT",
@@ -8,31 +15,24 @@
   },
   {
     "source": "BBC News (全球政治)",
-    "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-    "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-    "time": "Fri, 05 Jun 2026 15:29:39 GMT",
-    "desc": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories."
+    "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+    "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+    "time": "Sat, 06 Jun 2026 02:28:56 GMT",
+    "desc": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce."
   },
   {
     "source": "BBC News (全球政治)",
-    "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-    "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-    "time": "Fri, 05 Jun 2026 21:35:55 GMT",
-    "desc": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard."
+    "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+    "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+    "time": "Sat, 06 Jun 2026 07:06:43 GMT",
+    "desc": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support."
   },
   {
     "source": "BBC News (全球政治)",
-    "title": "Fury in France after child murder suspect's criminal record released",
-    "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-    "time": "Fri, 05 Jun 2026 11:32:51 GMT",
-    "desc": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-    "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-    "time": "Fri, 05 Jun 2026 16:00:47 GMT",
-    "desc": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities."
+    "title": "Iran's football team granted visas to enter US for World Cup, officials say",
+    "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+    "time": "Sat, 06 Jun 2026 03:14:56 GMT",
+    "desc": "The approval comes just 10 days before the Iranian squad's opening match against New Zealand in Los Angeles."
   },
   {
     "source": "新华社 (中国)",
@@ -106,37 +106,37 @@
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "As AI Semiconductor Revenue Swells, AVGO Stock is Destined to Trend Higher",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-semiconductor-revenue-swells-avgo-152836280.html",
-    "time": "2026-06-04T15:28:36Z",
+    "title": "Gas Prices Have Dropped Every Day for 2 Weeks—See Where Drivers Are Paying the Most and Least",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/gas-prices-dropped-every-day-033913957.html",
+    "time": "2026-06-05T03:39:13Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Solidion Technology shares surge after company unveils extreme-climate battery technology",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/solidion-technology-shares-surge-company-153000893.html",
-    "time": "2026-06-04T15:30:00Z",
+    "title": "Brookfield Renewable Partners (BEP) Price Target Raised Amid “Numerous Strong Tailwinds”",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/brookfield-renewable-partners-bep-price-033218898.html",
+    "time": "2026-06-05T03:32:18Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Economy will be fine ‘if the world continues to remain as optimistic,’ Goldman Sachs CEO says as AI giants plan IPOs",
-    "link": "https://finance.yahoo.com/economy/policy/articles/economy-fine-world-continues-remain-153000120.html",
-    "time": "2026-06-04T15:30:00Z",
+    "title": "Fluence Energy (FLNC) to Collaborate with Siemens and Nvidia to Develop AI Data Centers",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/fluence-energy-flnc-collaborate-siemens-033157245.html",
+    "time": "2026-06-05T03:31:57Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "JPMorgan's Jamie Dimon to flex massive branch network in SpaceX IPO pitch",
-    "link": "https://finance.yahoo.com/markets/article/jpmorgans-jamie-dimon-to-flex-massive-branch-network-in-spacex-ipo-pitch-153058850.html",
-    "time": "2026-06-04T15:30:58Z",
+    "title": "Susquehanna Raises Nextpower (NXT) Price Target Following Prevalon Deal",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/susquehanna-raises-nextpower-nxt-price-033110477.html",
+    "time": "2026-06-05T03:31:10Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Oracle (ORCL) – Among the 10 No-Brainer Dividend Stocks to Buy",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-among-10-no-152417179.html",
-    "time": "2026-06-04T15:24:17Z",
+    "title": "TD Cowen Boosts Shoals Technologies (SHLS) Price Target Following Meeting with Management",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/td-cowen-boosts-shoals-technologies-033012765.html",
+    "time": "2026-06-05T03:30:12Z",
     "desc": ""
   },
   {
@@ -155,6 +155,13 @@
   },
   {
     "source": "CNBC (商业)",
+    "title": "Social media bans on teens risk strengthening Big Tech's grip on the sector, Bluesky exec warns",
+    "link": "https://www.cnbc.com/2026/06/06/bluesky-teen-social-media-ban-monopolies.html",
+    "time": "Sat, 06 Jun 2026 05:00:01 GMT",
+    "desc": "\"We're living in a world where it's almost impossible for smaller entrants to come in and build healthier spaces,\" Bluesky's COO, Rose Wang, told CNBC."
+  },
+  {
+    "source": "CNBC (商业)",
     "title": "Bitcoin cracks $60,000, sinking to lowest level since October 2024",
     "link": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
     "time": "Fri, 05 Jun 2026 20:59:16 GMT",
@@ -166,12 +173,5 @@
     "link": "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html",
     "time": "Fri, 05 Jun 2026 21:36:23 GMT",
     "desc": "The move highlights the growing importance of the technology sector to the stock market."
-  },
-  {
-    "source": "CNBC (商业)",
-    "title": "Mythos rejuvenated the cybersecurity sector. Earnings put the recent rally to the test",
-    "link": "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
-    "time": "Fri, 05 Jun 2026 20:25:09 GMT",
-    "desc": "Mythos gave the cybersecurity sector a boost, but upbeat earnings weren't enough for investors in search of an AI payoff."
   }
 ]
