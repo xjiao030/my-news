@@ -1,10 +1,24 @@
 [
   {
     "source": "BBC News (全球政治)",
-    "title": "Trump says Iran shot down US helicopter and vows to respond",
+    "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+    "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+    "time": "Tue, 09 Jun 2026 21:13:17 GMT",
+    "desc": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding."
+  },
+  {
+    "source": "BBC News (全球政治)",
+    "title": "US striking Iran in response to downing of helicopter, military says",
     "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-    "time": "Tue, 09 Jun 2026 18:18:27 GMT",
-    "desc": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone."
+    "time": "Tue, 09 Jun 2026 21:43:25 GMT",
+    "desc": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond."
+  },
+  {
+    "source": "BBC News (全球政治)",
+    "title": "World's largest chipmaker does not rule out price rises as costs increase",
+    "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+    "time": "Tue, 09 Jun 2026 22:00:24 GMT",
+    "desc": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics."
   },
   {
     "source": "BBC News (全球政治)",
@@ -15,24 +29,10 @@
   },
   {
     "source": "BBC News (全球政治)",
-    "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-    "link": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-    "time": "Tue, 09 Jun 2026 07:36:15 GMT",
-    "desc": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-    "link": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
-    "time": "Tue, 09 Jun 2026 15:08:50 GMT",
-    "desc": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre."
-  },
-  {
-    "source": "BBC News (全球政治)",
-    "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-    "link": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-    "time": "Tue, 09 Jun 2026 14:27:37 GMT",
-    "desc": "Protesters are angry that the suspect had already been reported to police last August in a separate case."
+    "title": "Nasa names next astronauts for Artemis Moon programme",
+    "link": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+    "time": "Tue, 09 Jun 2026 17:46:55 GMT",
+    "desc": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it."
   },
   {
     "source": "新华社 (中国)",
@@ -113,65 +113,65 @@
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Japanese investors make biggest foreign stock exit in five years in May",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/japanese-investors-biggest-foreign-stock-091755524.html",
-    "time": "2026-06-08T09:17:55Z",
+    "title": "Is United Rentals Stock Outperforming the Nasdaq?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/united-rentals-stock-outperforming-nasdaq-154111092.html",
+    "time": "2026-06-08T15:41:11Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "How Is Paychex's Stock Performance Compared to Other Software Stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/paychexs-stock-performance-compared-other-090915696.html",
-    "time": "2026-06-08T09:09:15Z",
+    "title": "Jim Cramer on Five Below: “We’re Used to Having Them Raise Guidance”",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-five-below-used-153449170.html",
+    "time": "2026-06-08T15:34:49Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "How Long Can $900,000 in an IRA Last for a 75-Year-Old Retiree?",
-    "link": "https://finance.yahoo.com/markets/options/articles/im-75-900-000-ira-110000670.html",
-    "time": "2026-06-08T09:00:00Z",
+    "title": "Jim Cramer Says TJX “Can Offer Great Value for Much Less Than Expected”",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-tjx-offer-153451851.html",
+    "time": "2026-06-08T15:34:51Z",
     "desc": ""
   },
   {
     "source": "雅虎财经 (全球财经)",
-    "title": "Kinder Morgan Stock: Is KMI Underperforming the Energy Sector?",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/kinder-morgan-stock-kmi-underperforming-083534388.html",
-    "time": "2026-06-08T08:35:34Z",
+    "title": "Jim Cramer on Quantinuum: “This Is a Very Unprofitable Venture Right Now”",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-quantinuum-very-unprofitable-153439404.html",
+    "time": "2026-06-08T15:34:39Z",
     "desc": ""
-  },
-  {
-    "source": "CNBC (商业)",
-    "title": "Trump says U.S. must 'respond' after Iran shoots down helicopter over Hormuz Strait",
-    "link": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html",
-    "time": "Tue, 09 Jun 2026 18:26:09 GMT",
-    "desc": "The latest clash with Iran over the Strait of Hormuz came as President Donald Trump repeated that a deal with Tehran could be reached within days."
-  },
-  {
-    "source": "CNBC (商业)",
-    "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
-    "link": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
-    "time": "Tue, 09 Jun 2026 17:03:52 GMT",
-    "desc": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas."
   },
   {
     "source": "CNBC (商业)",
     "title": "SpaceX IPO explained: The price is set, but retail allocation still up in the air",
     "link": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
-    "time": "Tue, 09 Jun 2026 17:28:35 GMT",
+    "time": "Tue, 09 Jun 2026 20:43:46 GMT",
     "desc": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available."
   },
   {
     "source": "CNBC (商业)",
-    "title": "Semiconductor shorts pile on as winning trade reverses",
-    "link": "https://www.cnbc.com/2026/06/09/semiconductor-shorts-pile-on-as-winning-trade-reverses.html",
-    "time": "Tue, 09 Jun 2026 18:26:25 GMT",
-    "desc": "Investors' favorite trade is suddenly the one they can't stop betting against."
+    "title": "U.S. military launches strikes in retaliation for Iran downing helicopter",
+    "link": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html",
+    "time": "Tue, 09 Jun 2026 22:06:45 GMT",
+    "desc": "The latest clash with Iran over the Strait of Hormuz came as President Donald Trump repeated that a deal with Tehran could be reached within days."
   },
   {
     "source": "CNBC (商业)",
-    "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
-    "link": "https://www.cnbc.com/2026/06/09/kalshi-perpetual-futures-trading-perps-crosses-1-billion-in-volume-within-a-week-of-launch.html",
-    "time": "Tue, 09 Jun 2026 18:05:41 GMT",
-    "desc": "A spokesperson for the company said that the product is the fastest growing in the prediction market platform's history."
+    "title": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
+    "link": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+    "time": "Tue, 09 Jun 2026 22:29:25 GMT",
+    "desc": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets."
+  },
+  {
+    "source": "CNBC (商业)",
+    "title": "Oil prices fall after U.S. Energy secretary says Hormuz ship traffic is increasing",
+    "link": "https://www.cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
+    "time": "Tue, 09 Jun 2026 18:50:48 GMT",
+    "desc": "President Donald Trump has repeatedly said a deal with Tehran to reopen Hormuz is close, but such an agreement still has not materialized."
+  },
+  {
+    "source": "CNBC (商业)",
+    "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/06/09/the-may-inflation-numbers-are-due-out-wednesday-morning-heres-what-to-expect.html",
+    "time": "Tue, 09 Jun 2026 19:49:59 GMT",
+    "desc": "If the Wall Street consensus is correct, the consumer price index is expected to show inflation running at a 4.2% annual rate."
   }
 ]
